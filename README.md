@@ -1,3 +1,5 @@
+# 📽 -> 🐍 -> 🎞 -> 🖼 -> 📝 -> 🤖 
+
 # Processador de Vídeos para Geração de Datasets
 
 Este é um script Python desenvolvido para processar vídeos e extrair frames para geração de datasets. O script utiliza a biblioteca OpenCV para manipulação de vídeos e frames.

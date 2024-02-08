@@ -23,6 +23,3 @@ Este é um script Python desenvolvido para processar vídeos e extrair frames pa
 
 Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas funcionalidades. Basta abrir uma issue ou enviar um pull request.
 
-## Autor
-
-[Seu Nome] - [Seu Email]

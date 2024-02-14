@@ -1,5 +1,0 @@
-# Ignorar a pasta output
-output/
-
-# Ignorar todos os arquivos dentro da pasta videos
-videos-to-generate-dataset/*

@@ -2,7 +2,7 @@ import cv2
 import os
 
 #scripts paths
-videos_path = 'videos-to-generate-dataset'
+videos_path = 'input-videos'
 output_path = 'output'
 
 def outputFilesCleaner():

@@ -1,2 +1,4 @@
-src/output
-videos-to-generate-dataset/*
+/src/output
+src/videos-to-generate-dataset/*
+!/src/videos-to-generate-dataset/
+# /src/videos-to-generate-dataset/PanasonicSDFormatter.zip

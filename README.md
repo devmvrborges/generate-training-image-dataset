@@ -18,9 +18,11 @@ Este é um script Python desenvolvido para processar vídeos e extrair frames pa
 
 ## Como Usar
 
-1. Coloque seus vídeos na pasta `videos-to-generate-dataset`.
+1. Coloque seus vídeos na pasta `input-videos`.
    
-2. Execute o script `main.py`.
+2. No terminal navegue até a pasta `\src`
+
+3. Execute o script `main.py`.
 
 ## Como Contribuir
 

@@ -19,7 +19,7 @@ def outputFilesCleaner():
                 os.remove(file_path)
 
 def filesToCompile(path):
-    return [os.path.join(path, f) for f in os.listdir(path) if os.path.isfile(os.path.join(path, f))]
+    return [os.path.join(path, f) for f in os.listdir(path) if os.path.isfile(os.path.join(path, f)) and f.endswith('.mp4')]
 
 def saveFramesByVideo(video_path):
     cap = cv2.VideoCapture(video_path)

@@ -2,6 +2,9 @@
 
 Este é um script Python desenvolvido para processar vídeos e extrair frames para geração de datasets. O script utiliza a biblioteca OpenCV para manipulação de vídeos e frames.
 
+## Emoji Workflow
+# 📽 👉 🎞 👉 🐍 👉 🖼 👉 📝 👉 🤖 
+
 ## Funcionalidades
 
 - **Limpeza do Diretório de Saída**: Antes de processar os vídeos, o script verifica se o diretório de saída está limpo. Se não estiver, ele remove todos os arquivos contidos no diretório para evitar conflitos.
